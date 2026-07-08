@@ -5,4 +5,4 @@ int main()
 	printf("Hello World");
 	return 0;
 }
-#this is comment
+//this is comment
