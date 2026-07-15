@@ -6,4 +6,4 @@ int main()
 	return 0;
 }
 //this is comment
-this is new line
+//this is new line comment
